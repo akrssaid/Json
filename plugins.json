@@ -1,0 +1,1523 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=akwam.to&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Anime",
+            "Cartoon",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "AkwamProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/AkwamProvider.cs3",
+        "name": "AkwamProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=allanime.site&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "AllAnimeProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/AllAnimeProvider.cs3",
+        "name": "AllAnimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=allmoviesforyou.net&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "AllMoviesForYouProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/AllMoviesForYouProvider.cs3",
+        "name": "AllMoviesForYouProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=altadefinizione.tienda&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "AltadefinizioneProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/AltadefinizioneProvider.cs3",
+        "name": "AltadefinizioneProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=aniflix.pro&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AniflixProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/AniflixProvider.cs3",
+        "name": "AniflixProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animefenix.com&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "AnimefenixProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/AnimefenixProvider.cs3",
+        "name": "AnimefenixProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeflick.net&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "AnimeFlickProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/AnimeFlickProvider.cs3",
+        "name": "AnimeFlickProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeflv.io&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AnimeflvIOProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/AnimeflvIOProvider.cs3",
+        "name": "AnimeflvIOProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www3.animeflv.net&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AnimeflvnetProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/AnimeflvnetProvider.cs3",
+        "name": "AnimeflvnetProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeindo.sbs&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "AnimeIndoProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/AnimeIndoProvider.cs3",
+        "name": "AnimeIndoProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animekisa.in&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AnimekisaProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/AnimekisaProvider.cs3",
+        "name": "AnimekisaProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AnimePaheProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/AnimePaheProvider.cs3",
+        "name": "AnimePaheProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=111.90.143.42&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AnimeSailProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/AnimeSailProvider.cs3",
+        "name": "AnimeSailProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.animesaturn.cc&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 1,
+        "internalName": "AnimeSaturnProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/AnimeSaturnProvider.cs3",
+        "name": "AnimeSaturnProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.animeworld.tv&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AnimeWorldProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/AnimeWorldProvider.cs3",
+        "name": "AnimeWorldProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=aniplay.it&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AniPlayProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/AniPlayProvider.cs3",
+        "name": "AniPlayProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=asiaflix.app&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AsiaFlixProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/AsiaFlixProvider.cs3",
+        "name": "AsiaFlixProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=cinecalidad.lol&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "CinecalidadProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/CinecalidadProvider.cs3",
+        "name": "CinecalidadProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=cuevana3.me&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "CuevanaProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/CuevanaProvider.cs3",
+        "name": "CuevanaProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=doramasyt.com&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "DoramasYTProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/DoramasYTProvider.cs3",
+        "name": "DoramasYTProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=185.224.83.103&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "DramaidProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/DramaidProvider.cs3",
+        "name": "DramaidProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=bestdubbedanime.com&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "DubbedAnimeProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/DubbedAnimeProvider.cs3",
+        "name": "DubbedAnimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.duboku.tv&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "DubokuProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/DubokuProvider.cs3",
+        "name": "DubokuProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.egy.best&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "EgyBestProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/EgyBestProvider.cs3",
+        "name": "EgyBestProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "EjaTv",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/EjaTv.cs3",
+        "name": "EjaTv"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "ElifilmsProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/ElifilmsProvider.cs3",
+        "name": "ElifilmsProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=entrepeliculasyseries.nu&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "EntrepeliculasyseriesProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/EntrepeliculasyseriesProvider.cs3",
+        "name": "EntrepeliculasyseriesProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www23.estrenosdoramas.net&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Movie",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "EstrenosDoramasProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/EstrenosDoramasProvider.cs3",
+        "name": "EstrenosDoramasProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "FaselHDProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/FaselHDProvider.cs3",
+        "name": "FaselHDProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=filman.cc&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "FilmanProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/FilmanProvider.cs3",
+        "name": "FilmanProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=filmpertutti.photo&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "FilmpertuttiProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/FilmpertuttiProvider.cs3",
+        "name": "FilmpertuttiProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=french-stream.re&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "FrenchStreamProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/FrenchStreamProvider.cs3",
+        "name": "FrenchStreamProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=gogoanime.lu&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "GogoanimeProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/GogoanimeProvider.cs3",
+        "name": "GogoanimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=185.231.223.76&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "GomunimeProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/GomunimeProvider.cs3",
+        "name": "GomunimeProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "HDMovie5",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/HDMovie5.cs3",
+        "name": "HDMovie5"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "HDMProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/HDMProvider.cs3",
+        "name": "HDMProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hdrezka19139.org&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "HDrezkaProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/HDrezkaProvider.cs3",
+        "name": "HDrezkaProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=94.103.82.88&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "IdlixProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/IdlixProvider.cs3",
+        "name": "IdlixProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ihavenotv.com&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Documentary"
+        ],
+        "version": 1,
+        "internalName": "IHaveNoTvProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/IHaveNoTvProvider.cs3",
+        "name": "IHaveNoTvProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ilgeniodellostreaming.quest&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries}",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "IlGenioDelloStreamingProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/IlGenioDelloStreamingProvider.cs3",
+        "name": "IlGenioDelloStreamingProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=jkanime.net&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "JKAnimeProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/JKAnimeProvider.cs3",
+        "name": "JKAnimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kawaiifu.com&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "KawaiifuProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/KawaiifuProvider.cs3",
+        "name": "KawaiifuProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kimcartoon.li&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Cartoon"
+        ],
+        "version": 1,
+        "internalName": "KimCartoonProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/KimCartoonProvider.cs3",
+        "name": "KimCartoonProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.me&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "KisskhProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/KisskhProvider.cs3",
+        "name": "KisskhProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kuramanime.com&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "KuramanimeProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/KuramanimeProvider.cs3",
+        "name": "KuramanimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=45.12.2.2&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "KuronimeProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/KuronimeProvider.cs3",
+        "name": "KuronimeProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "LayarKacaProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/LayarKacaProvider.cs3",
+        "name": "LayarKacaProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=melomovie.com&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "MeloMovieProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/MeloMovieProvider.cs3",
+        "name": "MeloMovieProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=monoschinos2.com&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "MonoschinosProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/MonoschinosProvider.cs3",
+        "name": "MonoschinosProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=146.19.24.137&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "MultiplexProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/MultiplexProvider.cs3",
+        "name": "MultiplexProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.mundodonghua.com&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "MundoDonghuaProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/MundoDonghuaProvider.cs3",
+        "name": "MundoDonghuaProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=mycima.tv&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "MyCimaProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/MyCimaProvider.cs3",
+        "name": "MyCimaProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=neonime.watch&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "Movie",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "NeonimeProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/NeonimeProvider.cs3",
+        "name": "NeonimeProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "NginxProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/NginxProvider.cs3",
+        "name": "NginxProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=9anime.id&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "NineAnimeProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/NineAnimeProvider.cs3",
+        "name": "NineAnimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=75.119.159.228&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "NontonAnimeIDProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/NontonAnimeIDProvider.cs3",
+        "name": "NontonAnimeIDProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=olgply.com&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            "Blatzar"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "OlgplyProvider",
+        "description": "Uses TMDB",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/OlgplyProvider.cs3",
+        "name": "OlgplyProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=65.108.132.145&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "OploverzProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/OploverzProvider.cs3",
+        "name": "OploverzProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=otakudesu.watch&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "OtakudesuProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/OtakudesuProvider.cs3",
+        "name": "OtakudesuProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=pelisflix.li&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "PelisflixProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/PelisflixProvider.cs3",
+        "name": "PelisflixProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=pelismart.com&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "PeliSmartProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/PeliSmartProvider.cs3",
+        "name": "PeliSmartProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplushd.net&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "PelisplusHDProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/PelisplusHDProvider.cs3",
+        "name": "PelisplusHDProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplus.icu&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "PelisplusProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/PelisplusProvider.cs3",
+        "name": "PelisplusProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichill.net&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "PhimmoichillProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/PhimmoichillProvider.cs3",
+        "name": "PhimmoichillProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.pinoy-hd.xyz&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "PinoyHDXyzProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/PinoyHDXyzProvider.cs3",
+        "name": "PinoyHDXyzProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "PinoyMovies",
+        "description": "Includes PinoyMoviePediaProvider and PinoyMoviesEsProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/PinoyMovies.cs3",
+        "name": "PinoyMovies"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=104.237.198.194&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "RebahinProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/RebahinProvider.cs3",
+        "name": "RebahinProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=seriesflix.video&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "SeriesflixProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/SeriesflixProvider.cs3",
+        "name": "SeriesflixProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.2embed.to&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "SflixProvider",
+        "description": "Also includes Dopebox, Solarmovie, Zoro and 2embed",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/SflixProvider.cs3",
+        "name": "SflixProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=secretlink.xyz&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "SoaptwoDayProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/SoaptwoDayProvider.cs3",
+        "name": "SoaptwoDayProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=streamingcommunity.best&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "StreamingcommunityProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/StreamingcommunityProvider.cs3",
+        "name": "StreamingcommunityProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Anime",
+            "Movie",
+            "AnimeMovie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "SuperStream",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/SuperStream.cs3",
+        "name": "SuperStream"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tantifilm.autos&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "TantiFilmProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/TantiFilmProvider.cs3",
+        "name": "TantiFilmProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tenshi.moe&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "Movie",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "TenshiProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/TenshiProvider.cs3",
+        "name": "TenshiProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=theflix.to&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "TheFlixToProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/TheFlixToProvider.cs3",
+        "name": "TheFlixToProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tocanime.co&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "TocanimeProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/TocanimeProvider.cs3",
+        "name": "TocanimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=trailers.to&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Cartoon",
+            "Anime",
+            "Movie",
+            "AnimeMovie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "TrailersTwoProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/TrailersTwoProvider.cs3",
+        "name": "TrailersTwoProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=uakino.club&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "UakinoProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/UakinoProvider.cs3",
+        "name": "UakinoProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=vf-film.me&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "VfFilmProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/VfFilmProvider.cs3",
+        "name": "VfFilmProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "VfSerieProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/VfSerieProvider.cs3",
+        "name": "VfSerieProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "VidSrcProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/VidSrcProvider.cs3",
+        "name": "VidSrcProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Anime",
+            "Movie",
+            "AnimeMovie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "VidstreamBundle",
+        "description": "Includes many providers with the same layout as Vidstream",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/VidstreamBundle.cs3",
+        "name": "VidstreamBundle"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.vmovee.watch&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "VMoveeProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/VMoveeProvider.cs3",
+        "name": "VMoveeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcostream.com&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Cartoon",
+            "Anime",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "WatchCartoonOnlineProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/WatchCartoonOnlineProvider.cs3",
+        "name": "WatchCartoonOnlineProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcofun.com&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "WcofunProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/WcofunProvider.cs3",
+        "name": "WcofunProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=xcine.me&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "XcineProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/XcineProvider.cs3",
+        "name": "XcineProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=yomovies.skin&sz=24",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions",
+        "status": 1,
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "YomoviesProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/YomoviesProvider.cs3",
+        "name": "YomoviesProvider"
+    }
+]
