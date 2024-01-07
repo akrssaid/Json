@@ -79,27 +79,6 @@
         "name": "GateAnimeProvider"
     },
 	
-	{
-        "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.tube&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/yoyzo/arab",
-        "fileSize": 19538,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "ImZaw"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime"
-        ],
-        "version": 8,
-        "internalName": "MyCimaProvider",
-        "url": "https://codeberg.org/cloudstream/arab/raw/branch/builds/MyCimaProvider.cs3",
-        "name": "MyCimaProvider"
-    },
-	
 {
     "iconUrl": "https://www.google.com/s2/favicons?domain=animeiat.tv&sz=%size%",
     "apiVersion": 1,
@@ -157,28 +136,6 @@
     "url": "https://github.com/aymanbest/Arabico/raw/main/build/AnimeBlkomProvider.cs3",
     "name": "AnimeBlkomProvider"
 },
-
-{
-        "iconUrl": "https://www.google.com/s2/favicons?domain=akwam.to&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/yoyzo/arab",
-        "fileSize": 13712,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "Blatzar"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime",
-            "Cartoon"
-        ],
-        "version": 2,
-        "internalName": "AkwamProvider",
-        "url": "https://codeberg.org/cloudstream/arab/raw/branch/builds/AkwamProvider.cs3",
-        "name": "AkwamProvider"
-    },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=anime4up.tv&sz=%size%",
         "apiVersion": 1,
@@ -526,47 +483,6 @@
         "name": "WebteIzle"
     },
 	
-	   {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/keyiflerolsun/Kekik-cloudstream",
-        "fileSize": 14113,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "Cloudburst",
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Others"
-        ],
-        "version": 1,
-        "internalName": "YouTube",
-        "description": "YouTube, izledi\u011finiz videolarla \u00f6nerilerini iyile\u015ftirir. \u0130lginizi \u00e7ekebilecek i\u00e7eriklerle dolu bir ak\u0131\u015f olu\u015fturmak i\u00e7in video izlemeye ba\u015flay\u0131n.",
-        "url": "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/YouTube.cs3",
-        "name": "YouTube"
-    },
-	
-	 {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=aniwave.to&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/KillerDogeEmpire/avocado-extensions",
-        "fileSize": 36649,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Horis, Stormunblessed, KillerDogeEmpire, Enimax, Chokerman"
-        ],
-        "tvTypes": [
-            "Anime",
-            "OVA"
-        ],
-        "version": 37,
-        "internalName": "AniwaveProvider",
-        "description": "Watch Aniwave/9anime, I have had reports saying homepage doesn't work the first time but retrying should fix it",
-        "url": "https://raw.githubusercontent.com/KillerDogeEmpire/avocado-extensions/builds/AniwaveProvider.cs3",
-        "name": "AniwaveProvider"
-    },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=appaudiobooks.com/&sz=%size%",
         "apiVersion": 1,
@@ -802,24 +718,6 @@
         "internalName": "DramacoolProvider",
         "url": "https://raw.githubusercontent.com/821938089/cloudstream-extensions/builds/DramacoolProvider.cs3",
         "name": "DramacoolProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=kshow123online.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/821938089/cloudstream-extensions",
-        "fileSize": 18258,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Horis"
-        ],
-        "tvTypes": [
-            "AsianDrama"
-        ],
-        "version": 2,
-        "internalName": "Kshow123Provider",
-        "url": "https://raw.githubusercontent.com/821938089/cloudstream-extensions/builds/Kshow123Provider.cs3",
-        "name": "Kshow123Provider"
     },
     
     {
@@ -1261,28 +1159,7 @@
         "url": "https://raw.githubusercontent.com/tuan041/repo041-cs3-build/builds/Xem8z.cs3",
         "name": "Xem8z"
     },
-
-   
 	
-	 {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=allanime.to&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions",
-        "fileSize": 46705,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime"
-        ],
-        "version": 9,
-        "internalName": "AllAnimeProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/AllAnimeProvider.cs3",
-        "name": "AllAnimeProvider"
-    },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=allmoviesforyou.net&sz=%size%",
         "apiVersion": 1,
@@ -1815,25 +1692,6 @@
         "url": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/WatchCartoonOnlineProvider.cs3",
         "name": "WatchCartoonOnlineProvider"
     },
-	
-	{
-        "iconUrl": "https://www.google.com/s2/favicons?domain=altadefinizione.tienda&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 12241,
-        "status": 1,
-        "language": "it",
-        "authors": [
-            "Adippe"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "AltadefinizioneProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/AltadefinizioneProvider.cs3",
-        "name": "AltadefinizioneProvider"
-    },
     
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animeflv.io&sz=%size%",
@@ -2013,27 +1871,7 @@
         "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/DoramasYTProvider.cs3",
         "name": "DoramasYTProvider"
     },
-   
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www23.estrenosdoramas.net&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 17443,
-        "status": 1,
-        "language": "es",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "Movie",
-            "OVA"
-        ],
-        "version": 1,
-        "internalName": "EstrenosDoramasProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/EstrenosDoramasProvider.cs3",
-        "name": "EstrenosDoramasProvider"
-    },
+
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=eurostreaming.social&sz=%size%",
         "apiVersion": 1,
@@ -2069,26 +1907,6 @@
         "internalName": "FreeTVProvider",
         "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/FreeTVProvider.cs3",
         "name": "FreeTVProvider"
-    },
-
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=hdmovie2.run&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 13509,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "HDMovie5",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/HDMovie5.cs3",
-        "name": "HDMovie5"
     },
 
     {
@@ -2207,25 +2025,7 @@
         "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/PeliSmartProvider.cs3",
         "name": "PeliSmartProvider"
     },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplushd.net&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 11054,
-        "status": 0,
-        "language": "es",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "PelisplusHDProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/PelisplusHDProvider.cs3",
-        "name": "PelisplusHDProvider"
-    },
+ 
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplus.icu&sz=%size%",
         "apiVersion": 1,
@@ -2390,23 +2190,5 @@
         "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/XcineProvider.cs3",
         "name": "XcineProvider"
     },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=zaluknij.xyz&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 12254,
-        "status": 1,
-        "language": "pl",
-        "authors": [
-            "Cloudburst"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 2,
-        "internalName": "ZaluknijProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/ZaluknijProvider.cs3",
-        "name": "ZaluknijProvider"
-    }
+
 ]
