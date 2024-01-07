@@ -1,4 +1,6 @@
-[{
+[
+
+{
     "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/aymanbest/Arabico",
@@ -2189,6 +2191,6 @@
         "internalName": "XcineProvider",
         "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/XcineProvider.cs3",
         "name": "XcineProvider"
-    },
+    }
 
 ]
