@@ -1219,25 +1219,6 @@
         "url": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/AnimePaheProvider.cs3",
         "name": "AnimePaheProvider"
     },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=asiaflix.app&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions",
-        "fileSize": 17829,
-        "status": 0,
-        "language": "en",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "OVA"
-        ],
-        "version": 1,
-        "internalName": "AsiaFlixProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/AsiaFlixProvider.cs3",
-        "name": "AsiaFlixProvider"
-    },
 
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=bflix.ru&sz=%size%",
