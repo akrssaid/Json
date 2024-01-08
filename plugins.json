@@ -846,26 +846,7 @@
         "url": "https://raw.githubusercontent.com/AirbnbEcoPlus/frencharchive/master/compiled/OtakuFRProvider.cs3",
         "name": "OtakuFRProvider"
     },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=vostfree.cx&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/AirbnbEcoPlus/frencharchive",
-        "fileSize": 21452,
-        "status": 1,
-        "language": "fr",
-        "authors": [
-            "Eddy"
-        ],
-        "tvTypes": [
-            "Anime",
-            "AnimeMovie"
-        ],
-        "version": 1,
-        "internalName": "VostfreeProvider",
-        "description": " Ce site est certainement l\u2019un des meilleurs sites permettant de regarder des animes en ligne et gratuitement. Il vous propose la version \u00ab VF \u00bb version fran\u00e7aise et la \u00ab VOSTFR \u00bb version originale Sous-titr\u00e9e en Fran\u00e7ais.",
-        "url": "https://raw.githubusercontent.com/AirbnbEcoPlus/frencharchive/master/compiled/VostfreeProvider.cs3",
-        "name": "VostfreeProvider"
-    },
+   
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=wiflix.zone&sz=%size%",
         "apiVersion": 1,
@@ -886,28 +867,7 @@
         "url": "https://raw.githubusercontent.com/AirbnbEcoPlus/frencharchive/master/compiled/WiflixProvider.cs3",
         "name": "WiflixProvider"
     },
-	
-	{
-        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVXgt1ROWUjrXsmdPpum1ql3IGegwcagLeNZsiSO0J&s",
-        "apiVersion": 2,
-        "repositoryUrl": "https://github.com/duongnv1996/bongngo-cs3-extension",
-        "fileSize": 41610,
-        "status": 1,
-        "language": "vi",
-        "authors": [
-            "Blue"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 5,
-        "internalName": "BongNgoTVProvider",
-        "description": "#1",
-        "url": "https://raw.githubusercontent.com/duongnv1996/bongngo-cs3-extension/builds/BongNgoTVProvider.cs3",
-        "name": "BongNgoTVProvider"
-    },
+
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=bilutve.org&sz=%size%",
         "apiVersion": 1,
